@@ -1,0 +1,60 @@
+body {
+	background :#6f7f8c url(../images/fon.png) repeat-x;
+	margin :0;
+}
+.page {
+	background : #eeeeee;
+	width : 760px;
+	margin : 0 auto;
+	padding : 20px;	
+}
+.header {
+	background: #e0e0e0;
+	height: 186px;
+	margin: 0 0 20px;
+	padding: 14px 0 0 13px;
+}
+.header div {
+	overflow:hidden;
+}
+.logo{
+	background: url(../images/logotip.png) no-repeat;
+	height:106px;
+	width: 84px;
+	display: block;
+	float:left;
+	margin: 0 20px 0 0;
+}
+.logo a{
+	height: 106px;
+	width: 84px; 
+	display: block;
+}
+.main {
+	background: #c7c7c7;
+	height: 500px;
+}
+.menu {
+	margin :20px 15px 0;
+	float: right;
+}
+.menu li{
+	display: block;
+	float: left;
+	margin: 0 20px 0 20px;
+}
+.menu li a{
+	color: #f74600;
+}
+.futermenu {
+	float:right;
+	margin: 40px 210px 0 0;
+}
+.futermenu li {
+	display: block;
+	float: left;
+	margin: 0 10px;
+}
+.futermenu li a {
+	color: #2a8015;
+}
